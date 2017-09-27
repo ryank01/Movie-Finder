@@ -14,7 +14,7 @@ var SearchForm = React.createClass({
           <button className="btn btn-primary btn-block">Search Movies</button>
         </form>
       </div>
-    );
+    )
   },
 
   onSubmit: function(e) {
